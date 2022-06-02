@@ -1,0 +1,6 @@
+{
+	"name": "swSFTPIR",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
