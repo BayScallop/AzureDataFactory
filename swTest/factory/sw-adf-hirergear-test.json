@@ -1,0 +1,9 @@
+{
+	"name": "sw-adf-hirergear-test",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0081fcca-dd6c-4fa0-8a74-962b197c5c13",
+		"tenantId": "830d29d9-2890-422f-820b-291f136081dc"
+	}
+}
